@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Are You Mansplaining?/ViewController.swift"
+            timestampString = "531878799.876373"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "isMansplaining(text:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Are You Mansplaining?/ViewController.swift"
+            timestampString = "531878799.87712"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "isMansplaining(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Are_You_Mansplaining_.ViewController.isMansplaining(text: Swift.String) -&gt; ()"
+                  moduleName = "Are You Mansplaining?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Andrew/Projects/iOSWorkshop-HackDavis/Are%20You%20Mansplaining%3F/Are%20You%20Mansplaining%3F/ViewController.swift"
+                  timestampString = "531877855.020116"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in Are_You_Mansplaining_.ViewController.isMansplaining(text: Swift.String) -&gt; ()"
+                  moduleName = "Are You Mansplaining?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Andrew/Projects/iOSWorkshop-HackDavis/Are%20You%20Mansplaining%3F/Are%20You%20Mansplaining%3F/ViewController.swift"
+                  timestampString = "531877855.022716"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,22 @@
+{
+  "name": "hackdavis-iosworkshop",
+  "version": "1.0.0",
+  "description": "Are Your Mansplaining?",
+  "main": "Server/app.js",
+  "scripts": {
+    "test": "node Server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewthecope/iOSWorkshop-HackDavis.git"
+  },
+  "keywords": [
+    "."
+  ],
+  "author": "Andrew Cope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewthecope/iOSWorkshop-HackDavis/issues"
+  },
+  "homepage": "https://github.com/andrewthecope/iOSWorkshop-HackDavis#readme"
+}
