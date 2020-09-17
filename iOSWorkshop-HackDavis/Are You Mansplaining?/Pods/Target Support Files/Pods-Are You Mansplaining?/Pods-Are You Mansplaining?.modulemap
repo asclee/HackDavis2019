@@ -1,6 +1,0 @@
-framework module Pods_Are_You_Mansplaining_ {
-  umbrella header "Pods-Are You Mansplaining?-umbrella.h"
-
-  export *
-  module * { export * }
-}
